@@ -1,0 +1,25 @@
+body {
+   background-color:blanchedalmond;
+   font-size: 20px; 
+}
+.container {
+    background-color:cadetblue;
+}
+h3 {
+    font-family: 'Times New Roman', cursive;
+    font-weight:500;
+    background-color:skyblue;
+    height:50;
+}
+#floater{
+float:right;
+background-color:springgreen;
+border-radius: 50px;
+}
+canvas{
+    border-width:10px;
+    border-style:inset;
+    border-color:saddlebrown;
+  margin-top:50px;
+    
+}
